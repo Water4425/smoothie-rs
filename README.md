@@ -30,7 +30,7 @@
         <img src="https://img.shields.io/github/license/couleur-tweak-tips/smoothie-rs.svg" alt="License" />
 </p>
 
-smoothie-rs is a rewrite of [smoothie](https://github.com/couleur-tweak-tips/smoothie) in rust, find the documentation over on [ctt.cx/smoothie](https://ctt.cx/video/smoothie)
+smoothie-rs is a rewrite of [smoothie](https://github.com/couleur-tweak-tips/smoothie) in c, find the documentation over on [ctt.cx/smoothie](https://ctt.cx/video/smoothie)
 
 Thanks to tekno, yalter and anima for inspiration
 
@@ -67,7 +67,7 @@ Me and [anima](https://github.com/animafps) once considered [developping Smoothi
 And developping it would mean:
 
 * Compiling would be much more complex since it'd be OS-based to link VapourSynth's library
-* All of the logic in the easy python code would have to be rewritten in Rust / C
+* All of the logic in the easy python code would have to be rewritten in C
 
 I don't consider it worth working on nowadays
 </details>
